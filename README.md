@@ -26,19 +26,5 @@ src/main/java/tarefa/
   TarefasApp.java
 ```
 
-## 📤 Como subir no GitHub
-```bash
-git init
-git add .
-git commit -m "Versão inicial - Sistema de Tarefas"
-git branch -M main
-git remote add origin https://github.com/SEU_USUARIO/SistemaTarefas_BrenoCardoso.git
-git push -u origin main
-```
-
-### 🌿 Fluxo com branch `dev`
-```bash
-git checkout -b dev
-git push -u origin dev
-# Depois, no GitHub: "Compare & Pull Request"
+PROJETO ENTREGUE PROFESSOR ✅✅
 ```
