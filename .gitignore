@@ -1,0 +1,10 @@
+# Java / IntelliJ / Maven generic ignores
+target/
+*.class
+*.log
+*.iml
+.idea/
+*.ipr
+*.iws
+.DS_Store
+out/
